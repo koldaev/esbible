@@ -1,8 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">ESBIBLE</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-
+    <string name="menu_settings">Configuración</string>
+    
+    <string name="language">es</string>
+    
+	<string name="savingbook">Libro se guarda</string>
+	<string name="biblename">Biblia</string>
+	<string name="loadfontsize">Tamaño de la fuente Loaded</string>
+	<string name="defaultfontsize">Aumentar tamaño de letra</string>
+	<string name="newtestament">Nuevo Testamento</string>
+	<string name="oldtestament">Antiguo Testamento</string>
+	<string name="chapter">capítulo</string>
+	<string name="psalm">Salmo</string>
+	<string name="chapterchang">Seleccione el capítulo</string>
+	<string name="savebookmark">Marcador</string>
+	<string name="loadbookmark">Descargar ficha</string>
+	<string name="savechapter">Guardar capítulo</string>
+	<string name="savebook">Guarde el libro</string>
+	<string name="savebase">Mantener la base</string>
+	<string name="smallfont">Smaller Font</string>
+	<string name="bigfont">Letra grande</string>
+	<string name="exportprocess">Se exporta a. Txt\r\nPor favor, espera</string>
+	<string name="newfontsize">Nuevo tamaño de fuente</string>
+	<string name="savingbookmark">Bookmark guardado</string>
+	<string name="savingbase">Base de datos SQLite almacena en</string>
+	<string name="savingtext">El texto se almacena en</string>
+	<string name="enterword">Ingrese un término de búsqueda</string>
+	
+	<string name="findprocess">Búsqueda Por favor espere</string>
+	<string name="findofword">Word Search</string>
+	<string name="findresults">Resultados de la búsqueda</string>
+	<string name="matches">cerillas</string>
+	<string name="poem">verso</string>
+	<string name="loadprocess">Cargando Por favor espere</string>
+	
+	<string name="searchbutton">Buscar</string>
+	<string name="backbutton">Espalda</string>
+	<string name="forwardbutton">Adelante</string>
+	
+	<string name="tosavexml">Enviar al BibleXML</string>
+	<string name="savingxml">El nuevo formato XML</string>
 </resources>
